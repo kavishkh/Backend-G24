@@ -1,0 +1,8 @@
+{"ipaddress":"::1","time":"2025-01-22T04:20:05.569Z","url":"/","protocol":"http","method":"GET","hostname":"localhost"}
+{"ipaddress":"::1","time":"2025-01-22T04:20:05.634Z","url":"/favicon.ico","protocol":"http","method":"GET","hostname":"localhost"}
+{"ipaddress":"::1","time":"2025-01-22T04:20:08.829Z","url":"/","protocol":"http","method":"GET","hostname":"localhost"}
+{"ipaddress":"::1","time":"2025-01-22T04:20:09.054Z","url":"/","protocol":"http","method":"GET","hostname":"localhost"}
+{"ipaddress":"::1","time":"2025-01-22T04:20:09.250Z","url":"/","protocol":"http","method":"GET","hostname":"localhost"}
+{"ipaddress":"::1","time":"2025-01-22T04:20:09.478Z","url":"/","protocol":"http","method":"GET","hostname":"localhost"}
+{"ipaddress":"::1","time":"2025-01-22T04:20:09.604Z","url":"/","protocol":"http","method":"GET","hostname":"localhost"}
+{"ipaddress":"::1","time":"2025-01-22T04:20:09.797Z","url":"/","protocol":"http","method":"GET","hostname":"localhost"}
